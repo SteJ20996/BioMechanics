@@ -1,2 +1,2 @@
 # BioMechanics
-My learning path towards BioMechanics
+My learning path of BioMechanics
